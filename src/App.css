@@ -1,0 +1,11 @@
+input {
+  width: 100%;
+}
+
+.ap-button {
+  min-width: 80px;
+}
+
+.ap-row {
+  margin: 10px 5px;
+}
